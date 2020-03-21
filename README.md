@@ -1,8 +1,8 @@
 # Flatten the Curve
 
-This is a collection of COVID-19-related projects to aid researchers (like me) who are trying to use their expertise to benefit the society. The goal is to **flatten the curve**: delay the spread of the virus so that fewer people need assistance and treatment at a given time.
-
 ![Flatten the Curve](flatten.jpeg)
+
+This is a collection of COVID-19-related projects to aid researchers (like me) who are trying to use their expertise to benefit the society. The goal is to **flatten the curve**: delay the spread of the virus so that fewer people need assistance and treatment at a given time.
 
 If this collection is useful, please ⭐ and share. Even better, consider [contributing to this list](#contributors)!
 
