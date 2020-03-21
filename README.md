@@ -7,6 +7,8 @@ If this collection is useful, please ⭐ and share!
 - [Datasets](#datasets)
 - [Visualizations](#visualizations)
 - [Competitions](#competitions)
+- [Official Reports](#official-reports)
+- [Blog Posts](#blog-posts)
 - [Contributors](#contributors)
 
 ## Datasets
@@ -23,6 +25,11 @@ If this collection is useful, please ⭐ and share!
 
 1. [**[AI2]** COVID-19 Open Research Dataset Challenge (CORD-19) 🌎](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 2. [**[DACON]** [의료] 월간 데이콘 4 코로나 데이터 시각화 대회 🇰🇷](https://dacon.io/competitions/official/235590/overview/)
+
+## Official Reports
+
+1. [**[WHO]** Situation Reports 🌎](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+
 
 ## Blog Posts
 
