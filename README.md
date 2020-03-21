@@ -12,6 +12,7 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 - [Official Reports 🏛️](#official-reports)
 - [Blog Posts 📝](#blog-posts)
 - [Collections 📚](#collections)
+- [Resources 💰](#resources)
 - [Contributors](#contributors)
 
 <h2 id="datasets">Datasets 🗂️</h2>
@@ -19,6 +20,9 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 1. [**[AI2]** COVID-19 Open Research Dataset (CORD-19) 🌎](https://pages.semanticscholar.org/coronavirus-research)
 2. [**[DS4C]** Data Science for COVID-19 (DS4C) 🇰🇷](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 3. [Novel Corona Virus 2019 Dataset 🌎](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+4. [The COVID Tracking Project 🇺🇸](https://covidtracking.com/)
+5. [COVID-19 image data collection 🌎](https://github.com/ieee8023/covid-chestxray-dataset)
+6. [**[Tableau]** COVID-19 Data Hub 🌎](https://www.tableau.com/covid-19-coronavirus-data-resources)
 
 <h2 id="visualizations">Visualizations 📈</h2>
 
@@ -41,7 +45,15 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 <h2 id="collections">Collections and Syllabi 📚</h2>
 
-1. [#coronavirussyllabus](https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit)
+1. [#coronavirussyllabus 🌎](https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit)
+2. [Medical Student COVID-19 Curriculum 🌎](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/)
+3. [COVID-19 Dashboards 🌎](https://covid19dashboards.com/)
+
+<h2 id="resources">Resources 💰</h2>
+
+1. [**[NVIDIA]** NVIDIA Gives COVID-19 Researchers Free Access to Parabricks 🌎](https://blogs.nvidia.com/blog/2020/03/19/coronavirus-research-parabricks/)
+2. [**[Paperspace]** Paperspace is offering substantial free GPU resources to any team working on COVID-19 related research 🌎](https://www.reddit.com/r/MachineLearning/comments/fhl55t/n_paperspace_is_offering_substantial_free_gpu/)
+
 
 ## Contributors
 
