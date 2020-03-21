@@ -17,6 +17,7 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 1. [**[AI2]** COVID-19 Open Research Dataset (CORD-19) 🌎](https://pages.semanticscholar.org/coronavirus-research)
 2. [**[DS4C]** Data Science for COVID-19 (DS4C) 🇰🇷](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+3. [Novel Corona Virus 2019 Dataset 🌎](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
 ## Visualizations
 
@@ -27,6 +28,7 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 1. [**[AI2]** COVID-19 Open Research Dataset Challenge (CORD-19) 🌎](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 2. [**[DACON]** [의료] 월간 데이콘 4 코로나 데이터 시각화 대회 🇰🇷](https://dacon.io/competitions/official/235590/overview/)
+3. [**[Kaggle]** COVID19 Global Forecasting (Week 1) 🌎](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 
 ## Official Reports
 
