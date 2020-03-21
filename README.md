@@ -5,6 +5,7 @@ If this collection is useful, please ⭐ and share!
 ## Table of Contents
 
 - [Datasets](#datasets)
+- [Visualizations](#visualizations)
 - [Competitions](#competitions)
 - [Contributors](#contributors)
 
@@ -12,6 +13,11 @@ If this collection is useful, please ⭐ and share!
 
 1. [**[AI2]** COVID-19 Open Research Dataset (CORD-19) 🌎](https://pages.semanticscholar.org/coronavirus-research)
 2. [**[DS4C]** Data Science for COVID-19 (DS4C) 🇰🇷](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+
+## Visualizations
+
+1. [**[Worldometer]** COVID-19 Coronavirus Outbreak 🌎](https://www.worldometers.info/coronavirus/)
+2. [**[Tesser]** CoVID Statistics 🌎 🇺🇸](https://covid.lepius.io/us)
 
 ## Competitions
 
