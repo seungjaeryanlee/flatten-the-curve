@@ -2,6 +2,12 @@
 
 If this collection is useful, please ⭐ and share!
 
+## Table of Contents
+
+- [Datasets](#datasets)
+- [Competitions](#competitions)
+- [Contributors](#contributors)
+
 ## Datasets
 
 1. [COVID-19 Open Research Dataset (CORD-19) 🌎](https://pages.semanticscholar.org/coronavirus-research)
