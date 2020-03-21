@@ -10,8 +10,8 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 - [Visualizations 📈](#visualizations)
 - [Competitions 🏆](#competitions)
 - [Official Reports 🏛️](#official-reports)
-- [Blog Posts 📝](#blog-posts)
-- [Collections 📚](#collections)
+- [Articles & Blog Posts 📝](#articles)
+- [Collections & Syllabi 📚](#collections)
 - [Resources 💰](#resources)
 - [Contributors](#contributors)
 
@@ -24,11 +24,15 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 5. [COVID-19 image data collection 🌎](https://github.com/ieee8023/covid-chestxray-dataset)
 6. [**[Tableau]** COVID-19 Data Hub 🌎](https://www.tableau.com/covid-19-coronavirus-data-resources)
 7. [**[Liquidata]** Novel Coronavirus (COVID-19) Dataset 🌎](https://www.dolthub.com/repositories/Liquidata/corona-virus)
+8. [**[Our World in Data]** Coronavirus Source Data 🌎](https://ourworldindata.org/coronavirus-source-data)
+9. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository 🌎](https://github.com/CSSEGISandData/COVID-19)
 
 <h2 id="visualizations">Visualizations 📈</h2>
 
 1. [**[Worldometer]** COVID-19 Coronavirus Outbreak 🌎](https://www.worldometers.info/coronavirus/)
 2. [**[Tesser]** CoVID Statistics 🌎 🇺🇸](https://covid.lepius.io/us)
+3. [Coronavirus Dashboard 🌎](https://ncov2019.live/data)
+4. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Visual Dashboard 🌎](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 <h2 id="competitions">Competitions 🏆</h2>
 
@@ -40,9 +44,10 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 1. [**[WHO]** Situation Reports 🌎](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
-<h2 id="blog-posts">Blog Posts 📝</h2>
+<h2 id="articles">Articles and Blog Posts 📝</h2>
 
 1. [**[fast.ai]** Covid-19, your community, and you — a data science perspective 🌎](https://www.fast.ai/2020/03/09/coronavirus/)
+2. [**[Our World in Data]** Coronavirus Disease (COVID-19) – Statistics and Research 🌎](https://ourworldindata.org/coronavirus)
 
 <h2 id="collections">Collections and Syllabi 📚</h2>
 
