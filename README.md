@@ -41,6 +41,6 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 ## Contributors
 
-Contributions are always welcome! Please make an [Issue](https://github.com/seungjaeryanlee/flatten-the-curve/issues) or [Pull Request](https://github.com/seungjaeryanlee/flatten-the-curve/pulls).
+Contributions are always welcome! Please make an [Issue](https://github.com/seungjaeryanlee/flatten-the-curve/issues) or [Pull Request](https://github.com/seungjaeryanlee/flatten-the-curve/pulls). I will try to respond as quickly as possible.
 
 - Seungjae Ryan Lee ([seungjaeryanlee](https://github.com/seungjaeryanlee/))
