@@ -23,6 +23,7 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 4. [The COVID Tracking Project 🇺🇸](https://covidtracking.com/)
 5. [COVID-19 image data collection 🌎](https://github.com/ieee8023/covid-chestxray-dataset)
 6. [**[Tableau]** COVID-19 Data Hub 🌎](https://www.tableau.com/covid-19-coronavirus-data-resources)
+7. [**[Liquidata]** Novel Coronavirus (COVID-19) Dataset 🌎](https://www.dolthub.com/repositories/Liquidata/corona-virus)
 
 <h2 id="visualizations">Visualizations 📈</h2>
 
