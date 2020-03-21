@@ -17,28 +17,28 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 <h2 id="datasets">Datasets 🗂️</h2>
 
+1. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository 🌎](https://github.com/CSSEGISandData/COVID-19)
 1. [**[AI2]** COVID-19 Open Research Dataset (CORD-19) 🌎](https://pages.semanticscholar.org/coronavirus-research)
-2. [**[DS4C]** Data Science for COVID-19 (DS4C) 🇰🇷](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-3. [Novel Corona Virus 2019 Dataset 🌎](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-4. [The COVID Tracking Project 🇺🇸](https://covidtracking.com/)
-5. [COVID-19 image data collection 🌎](https://github.com/ieee8023/covid-chestxray-dataset)
-6. [**[Tableau]** COVID-19 Data Hub 🌎](https://www.tableau.com/covid-19-coronavirus-data-resources)
-7. [**[Liquidata]** Novel Coronavirus (COVID-19) Dataset 🌎](https://www.dolthub.com/repositories/Liquidata/corona-virus)
-8. [**[Our World in Data]** Coronavirus Source Data 🌎](https://ourworldindata.org/coronavirus-source-data)
-9. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository 🌎](https://github.com/CSSEGISandData/COVID-19)
+1. [**[Our World in Data]** Coronavirus Source Data 🌎](https://ourworldindata.org/coronavirus-source-data)
+1. [**[Tableau]** COVID-19 Data Hub 🌎](https://www.tableau.com/covid-19-coronavirus-data-resources)
+1. [**[Liquidata]** Novel Coronavirus (COVID-19) Dataset 🌎](https://www.dolthub.com/repositories/Liquidata/corona-virus)
+1. [**[DS4C]** Data Science for COVID-19 (DS4C) 🇰🇷](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+1. [The COVID Tracking Project 🇺🇸](https://covidtracking.com/)
+1. [Novel Corona Virus 2019 Dataset 🌎](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+1. [COVID-19 image data collection 🌎](https://github.com/ieee8023/covid-chestxray-dataset)
 
 <h2 id="visualizations">Visualizations 📈</h2>
 
+1. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Visual Dashboard 🌎](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 1. [**[Worldometer]** COVID-19 Coronavirus Outbreak 🌎](https://www.worldometers.info/coronavirus/)
-2. [**[Tesser]** CoVID Statistics 🌎 🇺🇸](https://covid.lepius.io/us)
-3. [Coronavirus Dashboard 🌎](https://ncov2019.live/data)
-4. [**[JHU CSSE]** 2019 Novel Coronavirus COVID-19 (2019-nCoV) Visual Dashboard 🌎](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+1. [**[Tesser]** CoVID Statistics 🌎 🇺🇸](https://covid.lepius.io/us)
+1. [Coronavirus Dashboard 🌎](https://ncov2019.live/data)
 
 <h2 id="competitions">Competitions 🏆</h2>
 
 1. [**[AI2]** COVID-19 Open Research Dataset Challenge (CORD-19) 🌎](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
-2. [**[DACON]** [의료] 월간 데이콘 4 코로나 데이터 시각화 대회 🇰🇷](https://dacon.io/competitions/official/235590/overview/)
-3. [**[Kaggle]** COVID19 Global Forecasting (Week 1) 🌎](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
+1. [**[Kaggle]** COVID19 Global Forecasting (Week 1) 🌎](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
+1. [**[DACON]** [의료] 월간 데이콘 4 코로나 데이터 시각화 대회 🇰🇷](https://dacon.io/competitions/official/235590/overview/)
 
 <h2 id="official-reports">Official Reports 🏛️</h2>
 
@@ -47,19 +47,18 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 <h2 id="articles">Articles and Blog Posts 📝</h2>
 
 1. [**[fast.ai]** Covid-19, your community, and you — a data science perspective 🌎](https://www.fast.ai/2020/03/09/coronavirus/)
-2. [**[Our World in Data]** Coronavirus Disease (COVID-19) – Statistics and Research 🌎](https://ourworldindata.org/coronavirus)
+1. [**[Our World in Data]** Coronavirus Disease (COVID-19) – Statistics and Research 🌎](https://ourworldindata.org/coronavirus)
 
 <h2 id="collections">Collections and Syllabi 📚</h2>
 
+1. [COVID-19 Dashboards 🌎](https://covid19dashboards.com/)
+1. [Medical Student COVID-19 Curriculum 🌎](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/)
 1. [#coronavirussyllabus 🌎](https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit)
-2. [Medical Student COVID-19 Curriculum 🌎](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/)
-3. [COVID-19 Dashboards 🌎](https://covid19dashboards.com/)
 
 <h2 id="resources">Resources 💰</h2>
 
 1. [**[NVIDIA]** NVIDIA Gives COVID-19 Researchers Free Access to Parabricks 🌎](https://blogs.nvidia.com/blog/2020/03/19/coronavirus-research-parabricks/)
-2. [**[Paperspace]** Paperspace is offering substantial free GPU resources to any team working on COVID-19 related research 🌎](https://www.reddit.com/r/MachineLearning/comments/fhl55t/n_paperspace_is_offering_substantial_free_gpu/)
-
+1. [**[Paperspace]** Paperspace is offering substantial free GPU resources to any team working on COVID-19 related research 🌎](https://www.reddit.com/r/MachineLearning/comments/fhl55t/n_paperspace_is_offering_substantial_free_gpu/)
 
 ## Contributors
 
