@@ -11,6 +11,7 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 - [Competitions 🏆](#competitions)
 - [Official Reports 🏛️](#official-reports)
 - [Blog Posts 📝](#blog-posts)
+- [Collections 📚](#collections)
 - [Contributors](#contributors)
 
 <h2 id="datasets">Datasets 🗂️</h2>
@@ -37,6 +38,10 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 <h2 id="blog-posts">Blog Posts 📝</h2>
 
 1. [**[fast.ai]** Covid-19, your community, and you — a data science perspective 🌎](https://www.fast.ai/2020/03/09/coronavirus/)
+
+<h2 id="collections">Collections and Syllabi 📚</h2>
+
+1. [#coronavirussyllabus](https://docs.google.com/document/d/1dTkJmhWQ8NcxhmjeLp6ybT1_YOPhFLx9hZ43j1S7DjE/edit)
 
 ## Contributors
 
