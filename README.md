@@ -48,8 +48,11 @@ If this collection is useful, please ⭐ and share. Even better, consider [contr
 
 <h2 id="articles">Articles and Blog Posts 📝</h2>
 
+**⚠️ These resources can be opinionated. Be critical when reading them! ⚠️**
+
 1. [**[fast.ai]** Covid-19, your community, and you — a data science perspective 🌎](https://www.fast.ai/2020/03/09/coronavirus/)
 1. [**[Our World in Data]** Coronavirus Disease (COVID-19) – Statistics and Research 🌎](https://ourworldindata.org/coronavirus)
+1. [Coronavirus: Why You Must Act Now 🌎](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 <h2 id="collections">Collections and Syllabi 📚</h2>
 
